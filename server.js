@@ -13,9 +13,9 @@ const port = process.env.PORT;
 //middleware
 app.use(express.static('./public'));
 
-// app.get('/', function (request, response) {
-//   response.send('Hello World')
-// })
+app.get('/', function (request, response) {
+  response.send('Hello World')
+})
 
 // app.get('/bananas', (request, resposne) => {
 //   response.send('Monkey');
