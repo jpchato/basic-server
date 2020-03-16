@@ -1,4 +1,7 @@
 # basic-server
+
+* [Server](https://jpchato.github.io/basic-server/)
+
 # Lab 5
 * Feature 1: Deployment
 * Estimae of time needed to complete: 4 hours
